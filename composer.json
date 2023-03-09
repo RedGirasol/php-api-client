@@ -1,7 +1,7 @@
 {
-  "name": "mifiel/api-client",
+  "name": "redgirasol/mifiel-client",
   "description": "Mifiel API Client for PHP",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "keywords": [
     "Firma electrónica",
     "Firma electrónica Avanzada",
